@@ -3,6 +3,7 @@
     <output-path>$PROJECT_DIR$/out/artifacts/tweet_jar</output-path>
     <root id="archive" name="tweet.jar">
       <element id="module-output" name="tweet" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/twitter4j/twitter4j-core/4.0.6/twitter4j-core-4.0.6.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$USER_HOME$/Downloads/twitter4j-core-4.0.6.jar" path-in-jar="/" />
     </root>
   </artifact>
